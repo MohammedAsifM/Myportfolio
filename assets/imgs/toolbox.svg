@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve" width="512px" height="512px">
+  <g>
+    <!-- Computer Screen -->
+    <path d="M464,80H16c-8.832,0-16,7.168-16,16v288c0,8.832,7.168,16,16,16h120v48H56c-8.832,0-16,7.168-16,16s7.168,16,16,16h56v32h16v-32h160v32h16v-32h56c8.832,0,16-7.168,16-16s-7.168-16-16-16h-80v-48h120c8.832,0,16-7.168,16-16V96C480,87.168,472.832,80,464,80z M56,368v-32h16v32H56z M128,368v-32h16v32H128z M464,368H288v-32h176V368z M464,96v288H16V96H464z" fill="#444444"/>
+    
+    <!-- Screen Content -->
+    <rect x="80" y="136" width="320" height="160" fill="#222222"/>
+    
+    <!-- Brackets -->
+    <path d="M128,160h16v16h-16V160z M176,160h16v16h-16V160z M224,160h16v16h-16V160z M272,160h16v16h-16V160z M320,160h16v16h-16V160z" fill="#444444"/>
+  </g>
+</svg>
